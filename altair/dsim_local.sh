@@ -1,6 +1,6 @@
 #!/bin/bash
-# dsim_eng1.sh
-# Bash script to simulate design with Metrics DSim on eng-1
+# dsim_local.sh
+# Bash script to simulate design with Altair® DSim™ on local machine
 
 # Set up environment
 set -e

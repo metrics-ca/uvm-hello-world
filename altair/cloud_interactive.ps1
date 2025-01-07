@@ -1,5 +1,5 @@
 # cloud_interactive.ps1
-# PowerShell script to simulate design with Metrics DSim Cloud
+# PowerShell script to simulate design with Altair® DSim™ Cloud
 
 # Analyze and Elaborate design
 mdc dsim -a '-top work.top -genimage image -uvm 1.2 ../uvm_hello_world.sv'

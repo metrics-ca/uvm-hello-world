@@ -1,6 +1,6 @@
 #!/bin/bash
 # cloud_interactive.sh
-# Bash script to simulate design with Metrics DSim Cloud
+# Bash script to simulate design with Altair® DSim™ Cloud
 
 # Set up environment
 set -e

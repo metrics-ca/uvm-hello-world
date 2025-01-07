@@ -1,9 +1,5 @@
-#!/bin/bash
-# dsim_local.sh
-# Bash script to simulate design with Metrics DSim on local machine
-
-# Set up environment
-set -e
+# dsim_local.ps1
+# PowerShell script to simulate design with Altair® DSim™ on local machine
 
 # Analyze and Elaborate design
 dsim -top work.top -genimage image -uvm 1.2 ../uvm_hello_world.sv
